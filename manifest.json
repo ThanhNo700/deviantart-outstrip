@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "DeviantArt Outstrip",
+  "version": "0.1",
+  "description": "Brings back the classic DeviantArt 2015 interface.",
+  "permissions": [
+    "activeTab",
+    "declarativeContent",
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.deviantart.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}

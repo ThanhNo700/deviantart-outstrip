@@ -8,6 +8,12 @@
     "declarativeContent",
     "storage"
   ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "images/128.png"
+    }
+  }, 
   "content_scripts": [
     {
       "matches": ["*://*.deviantart.com/*"],
@@ -19,6 +25,6 @@
     "service_worker": "background.js"
   },
   "icons": {
-    "48": "icon.png"
+    "128": "images/128.png"
   }
 }

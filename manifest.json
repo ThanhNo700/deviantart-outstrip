@@ -35,5 +35,5 @@
       "resources": ["helpers/*"],
       "matches": ["*://*.deviantart.com/*"]
     },
-  ],
+  ]
 }

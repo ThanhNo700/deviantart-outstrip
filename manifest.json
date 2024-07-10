@@ -20,12 +20,6 @@
       "css": ["styles.css"]
     }
   ],
-  "background": {
-    "service_worker": "background.js"
-  },
-  "icons": {
-    "128": "images/128.png"
-  },
   "web_accessible_resources": [
     {
       "resources": ["images/*"],
@@ -35,5 +29,11 @@
       "resources": ["helpers/*"],
       "matches": ["*://*.deviantart.com/*"]
     },
-  ]
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "images/128.png"
+  },
 }

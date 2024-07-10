@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "DeviantArt Outstrip",
-  "version": "0.1",
-  "description": "Brings back the classic DeviantArt 2015 interface.",
+  "version": "0.1.0",
+  "description": "Brings back the classic DeviantArt's 2015 interface.",
   "permissions": [
     "activeTab",
     "declarativeContent",

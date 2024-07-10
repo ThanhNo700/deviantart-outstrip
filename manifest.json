@@ -1,7 +1,7 @@
 {
     "name": "DeviantArt Outstrip",
     "version": "0.1.0",
-    "description": "Replace Eclipse the classic DeviantArt's 2015 interface!",
+    "description": "Replaces Eclipse withs the better classic DeviantArt's 2015 interface!",
     "permissions": ["activeTab", "storage", "scripting"],
     "action": {
       "default_popup": "popup.html",

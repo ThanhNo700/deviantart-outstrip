@@ -4,7 +4,7 @@
 DA Outstrip is an experimental browser extension for bringing back the old DeviantArt interface. 99% of everyone hates the Eclipse, yet they aren't even finding a loophole, so I guess I had to do everything myself. Please thank me later, okay?
 
 ### How do I get it?
-Just be patient. I'm new to all this things in GitHub, so it's definitely gonna take a while. Helpers are welcome, too.
+To begin the beta test, download my source files as ZIP. Then extract it and load them to Google. That's it for now.
 
 ### Tell me about your versioning.
 Here. MAJOR.MINOR.PATCH.DIARY (I can list down the meanings too, so read them below.)

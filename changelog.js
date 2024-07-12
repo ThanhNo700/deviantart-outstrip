@@ -4,7 +4,7 @@ function handleChangelog() {
 	let version = chrome.runtime.getManifest().version;
 	if (!changelogHeader) return;
 	if (window.location.href.includes('#install')) {
-		changelogHeader.innerText = 'YouTube Redux has been installed!';
+		changelogHeader.innerText = 'DeviantArt Outstrip has been installed!';
 	} else {
 		changelogVersion.innerText = ` to v.${version}`;
 	}

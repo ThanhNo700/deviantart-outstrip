@@ -2485,4 +2485,5 @@ document.addEventListener("DOMContentLoaded", function() {
         unsafeWindow: typeof globalThis === "undefined" ? window : globalThis,
         unsafeThis: window,
     }, "tm_4s8b1k")
+}
     

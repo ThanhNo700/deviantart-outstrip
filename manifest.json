@@ -1,6 +1,6 @@
 {
     "name": "DeviantArt Outstrip",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "description": "Replicates Eclipse with the better classic DeviantArt's 2015 interface!",
     "permissions": ["activeTab", "storage", "scripting"],
     "action": {

@@ -1,3 +1,9 @@
+if (window.DWait) {
+    for (var dwaitrollup in {"https:\/\/web.archive.org\/web\/20151201043632\/http:\/\/st.deviantart.net\/css\/jquery.ui.deviantart_lc.css":true,"https:\/\/web.archive.org\/web\/20151201043632\/http:\/\/st.deviantart.net\/css\/da-widgets_lc.css":true,"https:\/\/web.archive.org\/web\/20151201043632\/http:\/\/st.deviantart.net\/css\/today_lc.css":true,"https:\/\/web.archive.org\/web\/20151201043632\/http:\/\/st.deviantart.net\/css\/pages_connection_lc.css":true,"https:\/\/web.archive.org\/web\/20151201043632\/http:\/\/st.deviantart.net\/css\/da-widgets-gruser-polls_lc.css":true,"https:\/\/web.archive.org\/web\/20151201043632\/http:\/\/st.deviantart.net\/css\/v6core_lc.css":true,"https:\/\/web.archive.org\/web\/20151201043632\/http:\/\/st.deviantart.net\/css\/deviantart-network_lc.css":true,"https:\/\/web.archive.org\/web\/20151201043632\/http:\/\/st.deviantart.net\/css\/group_secrets_lc.css":true}) {
+        DWait.unroll(dwaitrollup);
+    }
+}
+
 // Using content.js
 document.addEventListener("DOMContentLoaded", function() {
     // Replace or modify elements to match the old interface
@@ -2486,4 +2492,9 @@ document.addEventListener("DOMContentLoaded", function() {
         unsafeThis: window,
     }, "tm_4s8b1k")
 }
-    
+)
+
+//<![CDATA[
+    __wm.bt(725,27,25,2,"web","http://www.deviantart.com/","20151201043632",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt","https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+    __wm.rw(1);
+  //]]>
